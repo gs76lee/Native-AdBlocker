@@ -2,7 +2,7 @@
     "manifest_version": 2,
 
     "name": "Native AdBlocker",
-    "version": "0.3",
+    "version": "0.4",
 
     "default_locale": "ko",
     "description": "__MSG_extShortDesc__",
