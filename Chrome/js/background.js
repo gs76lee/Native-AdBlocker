@@ -143,9 +143,14 @@ return {
             supportURL: 'https://github.com/gorhill/uBlock/wiki/Experimental-filters',
             instructionURL: 'https://github.com/gorhill/uBlock/wiki/Experimental-filters'
         },
-		'http://jinbowiki.org/jinboguard/adfilter.txt': {
-			title: '한국 웹 광고 차단 필터 - 진보가드',
+		'https://raw.githubusercontent.com/NativeHyun/HyunGuard/master/General/general.txt': {
+			title: '한국 웹 광고 차단 필터 - HyunGuard',
 			group: 'default'
+		},
+		'https://raw.githubusercontent.com/NativeHyun/HyunGuard/master/KindSites/kindsites.txt': {
+			title: '착한 사이트',
+			group: 'default',
+			off: true
 		}
     },
 
